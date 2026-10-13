@@ -1,0 +1,7 @@
+*.asv
+*.mat
+*.avi
+*.mp4
+*.m~
+octave-workspace
+.DS_Store

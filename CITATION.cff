@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Solar System N-body Propagator: orbit propagation, close-approach screening and Monte Carlo impact assessment"
+type: software
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/EdwardOlex/solar-system-nbody"
+authors:
+  - family-names: Olex
+    given-names: Edward
+    affiliation: "Universidad Autónoma de Madrid"
+    email: edward.olex@uam.es
+keywords:
+  - astrodynamics
+  - orbit propagation
+  - N-body
+  - planetary defence
+  - near-Earth objects
+  - impact probability
